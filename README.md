@@ -1,5 +1,7 @@
 ## Star Wars Jedi: Fallen Order ultrawide, multimonitor, FOV mod
 
+![](after.png)
+
 The tool removes black bars from cutscenes and allows to manually control the game field of view in real time.
 
 1. Unpack the archive
