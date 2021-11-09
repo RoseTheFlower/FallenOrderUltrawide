@@ -1,6 +1,7 @@
 ## Star Wars Jedi: Fallen Order ultrawide, multimonitor, FOV mod
 
 ![](after.png)
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/FallenOrderUltrawide/total?style=flat-square)
 
 The tool removes black bars from cutscenes and allows to manually control the game field of view in real time.
 
